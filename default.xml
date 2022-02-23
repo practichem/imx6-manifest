@@ -25,7 +25,7 @@
   </project>
   <project remote="community" revision="ca27d12e4964d1336e662bcc60184bbff526c857" name="meta-freescale-distro" path="sources/meta-freescale-distro"/>
 
-  <project remote="congatec" revision="8c136c4362d0f14ceb5cceb27467ad9db5e9f93d" name="meta-freescale-3rdparty" path="sources/meta-freescale-3rdparty"/>
+  <project remote="congatec" revision="fd1c0590260d0b38b99256e40a859e7ee69eda34" name="meta-freescale-3rdparty" path="sources/meta-freescale-3rdparty"/>
 
   <project remote="OSSystems" revision="5f365ef0f842ba4651efe88787cf9c63bc8b6cb3" name="meta-browser" path="sources/meta-browser" />
   <project remote="rust" revision="5cda04c7c2158fc982502ca1e7893f71e4ca1729" name="meta-rust" path="sources/meta-rust" />
